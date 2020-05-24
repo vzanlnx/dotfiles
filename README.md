@@ -22,4 +22,5 @@ my personal dotfiles, no big deal.
 * [fzf](https://github.com/junegunn/fzf)
 
 
+tmuxline example on my mac:
 ![PrintScreen](img/screen.png)
