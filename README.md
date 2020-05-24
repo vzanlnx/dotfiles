@@ -21,3 +21,5 @@ my personal dotfiles, no big deal.
 
 * [fzf](https://github.com/junegunn/fzf)
 
+
+![PrintScreen](img/screen.png)
